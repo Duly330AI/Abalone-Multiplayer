@@ -1,0 +1,5 @@
+{
+  "name": "Abalone Online",
+  "description": "A real-time multiplayer implementation of the classic board game Abalone. Features 2-player support, rule enforcement (Sumito, broadside moves), and win detection.",
+  "requestFramePermissions": []
+}
