@@ -31,7 +31,8 @@ The game implements the core multiplayer flow and main Abalone rules, but it is 
 
 <img width="996" height="777" alt="Screenshot 2026-06-30 152606" src="https://github.com/user-attachments/assets/083adc25-9924-4dc6-885d-858311c4d14f" />
 
-<img width="914" height="851" alt="Screenshot 2026-06-30 152659" src="https://cloud.githubusercontent.com/assets/223662369//17fbe779-2143-4ac1-addb-3772a2a6ff44.png" />
+<img width="914" height="851" alt="Screenshot 2026-06-30 152659" src="https://github.com/user-attachments/assets/ffc3d103-6a15-4240-820f-c8bdbc1647e3" />
+
 
 
 ## Tech Stack
