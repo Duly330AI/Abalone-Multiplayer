@@ -100,3 +100,7 @@ npm run build
 This is a portfolio prototype for exploring real-time board-game logic, move validation, and multiplayer synchronization.
 
 This project is an unofficial portfolio/learning implementation and is not affiliated with the official Abalone brand or rights holders.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
